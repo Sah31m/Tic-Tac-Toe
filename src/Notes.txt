@@ -1,0 +1,17 @@
+[[
+
+    Landing Page
+        AI
+        Player
+
+    Features
+        AI Logic
+        Turn System
+
+    GUI
+        3X3 Grid
+        Congratulations
+        Landing Page
+
+
+]]
